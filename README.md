@@ -4,7 +4,7 @@ This repository is specified to collect dedicated RD school home tasks
 
 ## Initial Actions
 
-1. Create a GitHub account. The easiest way to get started is to create an account on https://GitHub.com (it's free).
+1. Create a GitHub account. The easiest way to get started is to create an account on [GitHub](https://GitHub.com) (it's free).
 2. Accept email invitation recived from GitHub to navigate to the main page of the repository.
 3. Above the list of files, click **<>Code**.
 4. Copy the URL for the repository. To clone the repository using HTTPS, under "HTTPS"
