@@ -1,0 +1,22 @@
+{
+  "name": "epam-rd3",
+  "version": "1.0.0",
+  "description": "This repository is specified to collect dedicated RD school home tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarineYegoryan/EPAM-RD3.git"
+  },
+  "author": "EPAM-RD-SCHOOL-TEAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarineYegoryan/EPAM-RD3/issues"
+  },
+  "homepage": "https://github.com/MarineYegoryan/EPAM-RD3#readme",
+  "dependencies": {
+
+  }
+}
